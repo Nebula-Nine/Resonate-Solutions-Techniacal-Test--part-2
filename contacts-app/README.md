@@ -12,8 +12,8 @@ This is a simple, responsive React application that displays a list of contacts 
 
 1.  Clone or download this repository to your local machine.
 2.  Open the project folder (contacts-app) in your IDE or text editor.
-3.  **npm install**
-4.  **npm run dev**
+3.  On terminal run **npm install**
+4.  Then run **npm run dev**
 5.  Open your browser and navigate to the local development server:
     -   [http://localhost:5173](http://localhost:5173/)
 
